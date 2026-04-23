@@ -1,0 +1,3 @@
+javac MapReduceLogProcessor.java
+
+java MapReduceLogProcessor

@@ -1,0 +1,105 @@
+# =========================
+
+# 🔥 General Junk
+
+# =========================
+
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# 🐍 Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+
+.env
+.venv
+venv/
+env/
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+
+# ☕ Java / Hadoop
+
+# =========================
+
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# =========================
+
+# 🌐 Web / Node (just in case)
+
+# =========================
+
+node_modules/
+npm-debug.log*
+
+# =========================
+
+# 🗂️ Archives (DON'T push zips)
+
+# =========================
+
+*.zip
+*.tar
+*.gz
+*.rar
+
+# =========================
+
+# 🧪 Temporary / generated files
+
+# =========================
+
+**tmp**
+cloud_storage/*tmp**
+
+# =========================
+
+# 🖼️ Generated outputs (optional)
+
+# =========================
+
+*.png
+*.pdf
+
+# =========================
+
+# 🧠 IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+*.iml
+
+# =========================
+
+# 🐧 OS / Shell
+
+# =========================
+
+*.sh~
+
